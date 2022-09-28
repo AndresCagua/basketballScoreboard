@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+h3 {
+    
+color: #EEEEEE;    
+width: 149px;
+height: 36px;
+left: 85px;
+top: 68px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+text-align: center;
+    
+    
+}
+
+h4{
+
+background-color: black;
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+   
+    
+}
+h5{
+margin-top: 10px;
+margin-bottom: 10px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+ 
+}
+h8{
+color: #F94F6D;
+font-weight: bold;
+}
+h7{
+color: gray;
+width: 155px;
+height: 45px;
+
+}
+button {
+    background-color: #1B244A;
+    border: 1px solidblack;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 40px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin-left: 4px;
+    margin-right: 5px;
+}
+#reset-btn {
+    background-color: black;
+    border: 1px solidblack;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 100px;
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-left: 160px;
+   
+}
